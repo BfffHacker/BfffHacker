@@ -80,7 +80,11 @@
 <div align='center'>
 
 ## <b>Enak Ngewe✨</b>
-
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
 </div>
 <br>
 <br>
