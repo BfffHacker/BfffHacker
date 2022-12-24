@@ -90,7 +90,7 @@
 <br>
 <br>
 # JANGAN RECODE !!!
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=XNXX+BOKEP+)
+
 ---
 
 <br>
